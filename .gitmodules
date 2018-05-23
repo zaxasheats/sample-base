@@ -1,0 +1,6 @@
+[submodule "Depends/sample-sub1"]
+	path = Depends/sample-sub1
+	url = https://github.com/zaxasheats/sample-sub1
+[submodule "Depends/sample-sub2"]
+	path = Depends/sample-sub2
+	url = https://github.com/zaxasheats/sample-sub2
